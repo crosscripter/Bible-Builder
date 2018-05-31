@@ -1,0 +1,13 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\bin\Debug\BibleBuilder.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\bin\Debug\BibleBuilder.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\obj\x86\Debug\BibleBuilder.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\obj\x86\Debug\BibleBuilder.pdb
+F:\Documents\Projects\BibleBuilder\BibleBuilder\obj\x86\Debug\BibleBuilder.exe
+F:\Documents\Projects\BibleBuilder\BibleBuilder\obj\x86\Debug\BibleBuilder.pdb
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\BibleBuilder.exe.config
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\BibleBuilder.exe
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\BibleBuilder.pdb
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\CsQuery.dll
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\CsQuery.pdb
+F:\Documents\Projects\BibleBuilder\BibleBuilder\bin\Debug\CsQuery.xml
+F:\Documents\Projects\BibleBuilder\BibleBuilder\obj\x86\Debug\BibleBuilder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\bin\Release\BibleBuilder.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\bin\Release\BibleBuilder.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\obj\x86\Release\BibleBuilder.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\obj\x86\Release\BibleBuilder.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\BibleBuilder\obj\x86\Release\BibleBuilder.csprojResolveAssemblyReference.cache
